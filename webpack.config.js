@@ -51,7 +51,6 @@ module.exports = {
       styles: path.resolve(__dirname, 'src/styles'),
       stores: path.resolve(__dirname, 'src/stores'),
       utils: path.resolve(__dirname, 'src/utils'),
-      models: path.resolve(__dirname, 'src/models'),
     },
     extensions: ['.js', '.jsx'],
   },
